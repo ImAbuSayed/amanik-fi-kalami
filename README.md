@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا ضياء الروح في صمت الليل
+> بين عينيكِ قلبي يميل
+> شوقنا نار في دمي تسري
+> مثل أنهار في الهوى تجري
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)

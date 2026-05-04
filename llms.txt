@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Amanik Fi Kalami |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 05, 2026 |
+| Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/amanik-fi-kalami/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا ضياء الروح في صمت الليل
+> بين عينيكِ قلبي يميل
+> شوقنا نار في دمي تسري
+> مثل أنهار في الهوى تجري
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)

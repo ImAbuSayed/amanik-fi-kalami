@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/amanik-fi-kalami/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Request Licensing for Amanik Fi Kalami](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Official Usage Rights for Amanik Fi Kalami](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---

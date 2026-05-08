@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Amanik Fi Kalami
+
+This log tracks the cryptographic history and versioning for the song **Amanik Fi Kalami** (amanik-fi-kalami).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T18:49:00.778224 | `v1` | `18d5df1a940c2593da82411d6cd23c23d699a9f086793ec4cc905c49dc70da40` | `30789d4cd399c0613b2fa257a76d5d964ad10ef9c1e074856c57772b2d886666` | `2026-05-08_amanik-fi-kalami-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
